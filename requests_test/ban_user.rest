@@ -1,0 +1,2 @@
+POST http://localhost:3003/users/5e2349b262025535c4cd7fea/ban HTTP/1.1
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImN5YmVya3Jpc2huYSIsImlkIjoiNWUyMzQ5YTI2MjAyNTUzNWM0Y2Q3ZmU5IiwiaWF0IjoxNTc5NDMzOTEwfQ.ubzGa17m86evZGTf1xcTp9HE7xIgT7kTtKt34XyRl2Q

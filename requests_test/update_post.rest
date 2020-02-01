@@ -1,0 +1,8 @@
+PUT http://localhost:3003/blogs/5e19e64a9394a55ae202aa0c
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRoM2gxZ2h3YXkiLCJpZCI6IjVlMTlkYmJhMjNlMDQ2NGY4NDA5YmZiMCIsImlhdCI6MTU3ODc3NDEwMH0.etCkR3STG4DTFht_-ll1NhONZMTVBIry1zK7JD_gck8
+
+{
+  "title": "zzzzzzzzzzzzzzzz",
+  "content": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
+}

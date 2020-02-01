@@ -1,0 +1,8 @@
+POST http://localhost:3003/blogs/
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRoM2gxZ2h3YXkiLCJpZCI6IjVlMTMzZTQzNGE1YTMzNTcxYmU2MzA2NiIsImlhdCI6MTU3ODQ4MTc0Mn0.9NatN1pRMv5vcFAhYCYkRHrqBncBkVkdJHCBsm66IHI
+
+{
+  "title": "forLike4withIndex3",
+  "content": "forliketestnumberone4withIndex3"
+}
